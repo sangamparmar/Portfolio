@@ -14,9 +14,9 @@ Before you begin, ensure you have met the following requirements:
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-## Installing vCard
+## Installing portfolio
 
-To install **vCard**, follow these steps:
+To install **MyPortfolio**, follow these steps:
 
 Linux and macOS:
 
